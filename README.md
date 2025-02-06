@@ -55,3 +55,13 @@
 
 - **주제** : localStorage와 sessionStorage의 차이점에 대해서 설명해주세요.
 - **블로그** : <https://velog.io/@ahnzi/technical-interview-local-session-storage>
+
+### 2025년 2월 5일 수요일
+
+- **주제** :
+- **블로그** :
+
+### 2025년 2월 6일 목요일
+
+- **주제** : webpack, rollup과 같은 번들러는 왜 필요한가?
+- **블로그** : <https://velog.io/@ahnzi/technical-interview-bundler>
