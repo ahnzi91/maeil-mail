@@ -118,8 +118,8 @@
 
 ### 2025년 2월 21일 금요일
 
-- **주제** :
-- **블로그** :
+- **주제** : HTML 데이터 속성(data-)은 무엇인가요?
+- **블로그** : <https://velog.io/@ahnzi/technical-interview-html-data-property>
 
 ### 2025년 2월 24일 월요일
 
