@@ -110,3 +110,18 @@
 
 - **주제** : 자바스크립트 클래스의 접근제어자에 대해 설명해주세요.
 - **블로그** : <https://velog.io/@ahnzi/technical-interview-access-modifier>
+
+### 2025년 2월 20일 목요일
+
+- **주제** :
+- **블로그** :
+
+### 2025년 2월 21일 금요일
+
+- **주제** :
+- **블로그** :
+
+### 2025년 2월 24일 월요일
+
+- **주제** : event.target과 event.currentTarget의 차이점은 무엇인가요?
+- **블로그** : <https://velog.io/@ahnzi/technical-interview-event-target>
