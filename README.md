@@ -125,3 +125,8 @@
 
 - **주제** : event.target과 event.currentTarget의 차이점은 무엇인가요?
 - **블로그** : <https://velog.io/@ahnzi/technical-interview-event-target>
+
+### 2025년 2월 25일 화요일
+
+- **주제** : CDN이 무엇인지 설명해주세요.
+- **블로그** : <https://velog.io/@ahnzi/technical-interview-cdn>
